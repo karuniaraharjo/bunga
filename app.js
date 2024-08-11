@@ -1,4 +1,4 @@
-alert("haiii sayangg")
+alert("haiii")
 alert("aku mau kasih kamu hadiah nih")
 alert("liat yaa")
 alert("1")
